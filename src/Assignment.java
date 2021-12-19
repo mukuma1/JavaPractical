@@ -11,6 +11,7 @@ public class Assignment {
 		System.out.println("Result for Addition:" + operation1);
 		System.out.println("Result for Subtraction:" + operation2);
 		System.out.println("Result for Multiplication:" + operation3);
+		System.out.println("Add:"+(number1+number2));
 
 	}
 
